@@ -1,6 +1,5 @@
 
 
-
 USE MASTER
 
 GO
@@ -10,6 +9,10 @@ DROP DATABASE IF EXISTS Ejemplo_Relacional_DB
 GO
 
 CREATE DATABASE Ejemplo_Relacional_DB;
+
+GO
+
+USE Ejemplo_Relacional_DB;
 
 GO
 

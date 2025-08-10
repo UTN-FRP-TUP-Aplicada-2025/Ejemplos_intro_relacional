@@ -19,3 +19,7 @@ VALUES
 (3, 'Hernandarias'),
 (4, 'Hasenkamp')
 
+GO
+
+SELECT * FROM Personas;
+SELECT * FROM Localidades;
